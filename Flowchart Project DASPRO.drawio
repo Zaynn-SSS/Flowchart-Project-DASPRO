@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="sERSOV_R9ZdZbw53TELt">
-    <mxGraphModel dx="4402" dy="3197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4173" dy="3061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,18 @@
         <mxCell id="QPGlBaz5gZiKMIF8yqvv-12" edge="1" parent="1" source="QPGlBaz5gZiKMIF8yqvv-1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;edgeStyle=orthogonalEdgeStyle;curved=0;" target="QPGlBaz5gZiKMIF8yqvv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QPGlBaz5gZiKMIF8yqvv-18" connectable="0" parent="QPGlBaz5gZiKMIF8yqvv-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=20;" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="0.2827" y="-1" as="geometry">
+            <mxPoint x="1" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QPGlBaz5gZiKMIF8yqvv-17" edge="1" parent="1" source="QPGlBaz5gZiKMIF8yqvv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;" target="QPGlBaz5gZiKMIF8yqvv-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPGlBaz5gZiKMIF8yqvv-19" connectable="0" parent="QPGlBaz5gZiKMIF8yqvv-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=20;" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="-0.1881" y="-1" as="geometry">
+            <mxPoint x="1" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QPGlBaz5gZiKMIF8yqvv-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Data Kosong?" vertex="1">
           <mxGeometry height="100" width="100" x="-415" y="400" as="geometry" />
