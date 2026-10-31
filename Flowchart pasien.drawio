@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="1qheGsGvNUC4RYzi6f_5">
+    <mxGraphModel dx="1609" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;" value="return dict:&lt;br&gt;id, nama.strip, poli,&lt;br&gt;keluhan.strip, waktu_daftar,&lt;br&gt;status=&#39;Menunggu&#39;" vertex="1">
+          <mxGeometry height="80" width="240" x="250" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="AE1" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="A2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE1" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="4FTAlqZTxkQxa4FzETBc-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="340" as="sourcePoint" />
+            <mxPoint x="790" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE2" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="4FTAlqZTxkQxa4FzETBc-15" value="Ya">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="420" as="sourcePoint" />
+            <mxPoint x="970" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE3" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="4FTAlqZTxkQxa4FzETBc-18" value="Tidak">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="460" as="sourcePoint" />
+            <mxPoint x="790" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE4" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="4FTAlqZTxkQxa4FzETBc-13" value="Ya">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="540" as="sourcePoint" />
+            <mxPoint x="970" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE5" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontStyle=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="4FTAlqZTxkQxa4FzETBc-19" value="Tidak">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="580" as="sourcePoint" />
+            <mxPoint x="790" y="620.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE6" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="4FTAlqZTxkQxa4FzETBc-12" value="Ya">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="660.0000000000001" as="sourcePoint" />
+            <mxPoint x="970" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE7" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="4FTAlqZTxkQxa4FzETBc-10" value="Tidak">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="700.0000000000001" as="sourcePoint" />
+            <mxPoint x="790" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="potong keluhan max 30 char" vertex="1">
+          <mxGeometry height="40" width="220" x="1230" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="C3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;align=left;spacingLeft=8;" value="return dict:&lt;br&gt;ID, Nama, Poli,&lt;br&gt;Keluhan, Waktu Daftar, Status" vertex="1">
+          <mxGeometry height="80" width="220" x="1230" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="CE1" edge="1" parent="1" source="4FTAlqZTxkQxa4FzETBc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="C2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE2" edge="1" parent="1" source="C2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" target="C3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;buat_pasien&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="280" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-8" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;validasi_pasien&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="700" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-10" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;return True, &#39;&#39;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="700" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-12" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;return False,&lt;/span&gt;&lt;br style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&#39;Keluhan kosong&#39;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="930" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-13" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;return False,&lt;/span&gt;&lt;br style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&#39;Nama min 3 karakter&#39;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="930" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-15" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;return False,&lt;/span&gt;&lt;br style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&#39;Nama kosong&#39;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="930" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-16" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;format_pasien_ke_tabel&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="1250" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-17" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="lambda kosong(nama)?" vertex="1">
+          <mxGeometry height="80" width="150" x="715" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-18" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=west;" value="lambda terlalu_pendek&lt;div&gt;(nama)?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="700" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="4FTAlqZTxkQxa4FzETBc-19" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=west;" value="lambda kosong(keluhan)?" vertex="1">
+          <mxGeometry height="80" width="180" x="700" y="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
