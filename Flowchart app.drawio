@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="sERSOV_R9ZdZbw53TELt">
-    <mxGraphModel dx="1657" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,27 +60,21 @@
         <mxCell id="PJtOrvI26MYz5TeBvZYG-30" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="user pilih Tab1, Tab2, Tab3" vertex="1">
           <mxGeometry height="100" width="100" x="-50" y="-470" as="geometry" />
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-39" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PJtOrvI26MYz5TeBvZYG-38" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-39" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400.5" y="-160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-36" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tab Daftar Pasien" vertex="1">
           <mxGeometry height="50" width="130" x="-465.5" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-41" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-56" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-400.5" y="-39.99999999999977" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-38" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Input nama, poli dan keluhan" vertex="1">
-          <mxGeometry height="50" width="130" x="-465.5" y="-160" as="geometry" />
-        </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-56" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wt9QgB-zg808mkwM41qk-7" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-300" y="250.00000000000023" as="targetPoint" />
+            <mxPoint x="-280" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tambahkan antrian" vertex="1">
-          <mxGeometry height="50" width="130" x="-345" y="120" as="geometry" />
+          <mxGeometry height="50" width="130" x="-345" y="230" as="geometry" />
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-59" edge="1" parent="1" source="wt9QgB-zg808mkwM41qk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PJtOrvI26MYz5TeBvZYG-184" value="">
           <mxGeometry relative="1" x="-0.999" as="geometry">
@@ -104,7 +98,7 @@
         </mxCell>
         <mxCell id="wt9QgB-zg808mkwM41qk-10" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wt9QgB-zg808mkwM41qk-14" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-520.5" y="120.00000000000023" as="targetPoint" />
+            <mxPoint x="-520.5" y="230.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wt9QgB-zg808mkwM41qk-11" connectable="0" parent="wt9QgB-zg808mkwM41qk-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Tidak" vertex="1">
@@ -113,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-83" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Apakah nama dan keluahan terpenuhi&lt;sup&gt;?&lt;/sup&gt;" vertex="1">
-          <mxGeometry height="105" width="122.5" x="-461.75" y="-40" as="geometry" />
+          <mxGeometry height="105" width="122.5" x="-461.75" y="70" as="geometry" />
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-94" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wt9QgB-zg808mkwM41qk-15" value="">
           <mxGeometry relative="1" as="geometry">
@@ -417,17 +411,18 @@
         <mxCell id="wt9QgB-zg808mkwM41qk-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pesan&amp;nbsp;&lt;div&gt;berhasil &amp;amp; Daftar&amp;nbsp;&lt;/div&gt;&lt;div&gt;antrian&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="-355" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="wt9QgB-zg808mkwM41qk-13" edge="1" parent="1" source="wt9QgB-zg808mkwM41qk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PJtOrvI26MYz5TeBvZYG-38">
-          <mxGeometry relative="1" x="-0.058" as="geometry">
+        <mxCell id="wt9QgB-zg808mkwM41qk-13" edge="1" parent="1" source="wt9QgB-zg808mkwM41qk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wt9QgB-zg808mkwM41qk-16">
+          <mxGeometry relative="1" x="-0.0734" as="geometry">
             <Array as="points">
               <mxPoint x="-600" y="145" />
               <mxPoint x="-600" y="-135" />
             </Array>
             <mxPoint x="-571" y="150.5" as="sourcePoint" />
+            <mxPoint x="-465.5" y="-135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wt9QgB-zg808mkwM41qk-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pesan&amp;nbsp;&lt;div&gt;error&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="-596.5" y="120" as="geometry" />
+          <mxGeometry height="50" width="150" x="-596.5" y="230" as="geometry" />
         </mxCell>
         <mxCell id="wt9QgB-zg808mkwM41qk-17" edge="1" parent="1" source="wt9QgB-zg808mkwM41qk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PJtOrvI26MYz5TeBvZYG-184">
           <mxGeometry relative="1" as="geometry" />
@@ -435,8 +430,8 @@
         <mxCell id="wt9QgB-zg808mkwM41qk-15" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pesan&amp;nbsp;&lt;div&gt;error&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="-236" as="geometry" />
         </mxCell>
-        <mxCell id="wt9QgB-zg808mkwM41qk-16" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pasien&amp;nbsp;&lt;div&gt;terdepan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="-335.5" y="-190" as="geometry" />
+        <mxCell id="wt9QgB-zg808mkwM41qk-16" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Input nama, poli&amp;nbsp;&lt;div&gt;dan keluhan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="-475.5" y="-160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
