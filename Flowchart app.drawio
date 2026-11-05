@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="sERSOV_R9ZdZbw53TELt">
-    <mxGraphModel dx="3207" dy="2475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1658" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,34 +125,34 @@
         <mxCell id="PJtOrvI26MYz5TeBvZYG-102" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;curved=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PJtOrvI26MYz5TeBvZYG-101" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-111" connectable="0" parent="PJtOrvI26MYz5TeBvZYG-102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];inheritText=1;defaultLabelBackgroundColor=page;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Ya" vertex="1">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-111" connectable="0" parent="PJtOrvI26MYz5TeBvZYG-102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];inheritText=1;defaultLabelBackgroundColor=page;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Panggil pasien" vertex="1">
           <mxGeometry relative="1" x="0.4109" y="-1" as="geometry">
             <mxPoint x="1" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSCf84rxH8WUGGsS1LPP-1" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PJtOrvI26MYz5TeBvZYG-99">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DSCf84rxH8WUGGsS1LPP-1" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="XbXApNY49Ls-Te1t1dud-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="38" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DSCf84rxH8WUGGsS1LPP-2" connectable="0" parent="DSCf84rxH8WUGGsS1LPP-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];inheritText=1;defaultLabelBackgroundColor=page;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tidak" vertex="1">
-          <mxGeometry relative="1" x="0.3407" y="2" as="geometry">
+        <mxCell id="DSCf84rxH8WUGGsS1LPP-2" connectable="0" parent="DSCf84rxH8WUGGsS1LPP-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];inheritText=1;defaultLabelBackgroundColor=page;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Batalkan antrian" vertex="1">
+          <mxGeometry relative="1" x="0.338" y="2" as="geometry">
             <mxPoint x="-2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-97" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tekan Panggil" vertex="1">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-97" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Aksi yang di pilih&amp;nbsp;" vertex="1">
           <mxGeometry height="100" width="100" x="110" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-116" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PJtOrvI26MYz5TeBvZYG-117" value="">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-116" edge="1" parent="1" source="XbXApNY49Ls-Te1t1dud-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PJtOrvI26MYz5TeBvZYG-117" value="">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="38" y="210" as="sourcePoint" />
             <mxPoint x="40" y="430" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-99" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Bagian Batalkan" vertex="1">
-          <mxGeometry height="50" width="130" x="-27" y="160" as="geometry" />
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-106" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PJtOrvI26MYz5TeBvZYG-105" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-101" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Panggil pasien" vertex="1">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-101" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tekan panggil pasien" vertex="1">
           <mxGeometry height="50" width="130" x="280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-108" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8ecLn0pVdCgLaiauur-i-7" value="">
@@ -442,6 +442,9 @@
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="User memilih Tab" vertex="1">
           <mxGeometry height="50" width="130" x="-65" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="XbXApNY49Ls-Te1t1dud-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Pilih pasien yang&amp;nbsp;&lt;div&gt;akan di batalkan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="-37" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
