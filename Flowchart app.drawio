@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="sERSOV_R9ZdZbw53TELt">
-    <mxGraphModel dx="2514" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2264" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
             <mxPoint x="3" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-83" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Apakah nama dan keluahan terpenuhi&lt;sup&gt;?&lt;/sup&gt;" vertex="1">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-83" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Apakah syarat nama dan keluahan terpenuhi&lt;sup&gt;?&lt;/sup&gt;" vertex="1">
           <mxGeometry height="105" width="122.5" x="-461.75" y="40" as="geometry" />
         </mxCell>
         <mxCell id="PJtOrvI26MYz5TeBvZYG-94" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wt9QgB-zg808mkwM41qk-15" value="">
@@ -246,7 +246,7 @@
         <mxCell id="PJtOrvI26MYz5TeBvZYG-174" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="PJtOrvI26MYz5TeBvZYG-173" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-169" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Pilih pasien selesai" vertex="1">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-169" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Pilih pasien yang akan di tandai selesai" vertex="1">
           <mxGeometry height="50" width="130" x="705" y="160" as="geometry" />
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-1" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-173" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="8ecLn0pVdCgLaiauur-i-9">
@@ -271,7 +271,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJtOrvI26MYz5TeBvZYG-173" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tombol Tandai Selesai?" vertex="1">
+        <mxCell id="PJtOrvI26MYz5TeBvZYG-173" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tekan Tandai Selesai?" vertex="1">
           <mxGeometry height="100" width="100" x="720" y="280" as="geometry" />
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-3" edge="1" parent="1" source="PJtOrvI26MYz5TeBvZYG-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ph564JT-RsOlEsHo1rvt-10">
@@ -398,8 +398,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ecLn0pVdCgLaiauur-i-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pesan&amp;nbsp;&amp;nbsp;&lt;div&gt;berhasil&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="270" y="480" as="geometry" />
+        <mxCell id="8ecLn0pVdCgLaiauur-i-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pesan&amp;nbsp;&amp;nbsp;&lt;div&gt;Selahkan menuju poli&amp;nbsp;&lt;/div&gt;&lt;div&gt;(nama poli yang di input)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="240" y="480" as="geometry" />
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-14" edge="1" parent="1" source="8ecLn0pVdCgLaiauur-i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ph564JT-RsOlEsHo1rvt-13" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -416,7 +416,7 @@
         <mxCell id="ph564JT-RsOlEsHo1rvt-10" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Menampilkan pesan&amp;nbsp;&lt;div&gt;Pasien telah selesai di&amp;nbsp;&lt;/div&gt;&lt;div&gt;layani&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="820" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="ph564JT-RsOlEsHo1rvt-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;resizable=1;" value="Lanjut menggunakan apkasi?li" vertex="1">
+        <mxCell id="ph564JT-RsOlEsHo1rvt-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;resizable=1;" value="Lanjut menggunakan aplikasi?" vertex="1">
           <mxGeometry height="100" width="100" x="459" y="906" as="geometry" />
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-17" edge="1" parent="1" source="ph564JT-RsOlEsHo1rvt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;" target="ph564JT-RsOlEsHo1rvt-19">
