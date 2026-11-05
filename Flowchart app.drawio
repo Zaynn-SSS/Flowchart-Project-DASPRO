@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="sERSOV_R9ZdZbw53TELt">
-    <mxGraphModel dx="1658" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,8 +273,8 @@
             <mxPoint x="450" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wt9QgB-zg808mkwM41qk-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pesan&amp;nbsp;&lt;div&gt;berhasil &amp;amp; Daftar&amp;nbsp;&lt;/div&gt;&lt;div&gt;antrian&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="-355" y="160" as="geometry" />
+        <mxCell id="wt9QgB-zg808mkwM41qk-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan pesan&amp;nbsp;&lt;div&gt;berhasil di daftarkan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="-360" y="160" as="geometry" />
         </mxCell>
         <mxCell id="DSCf84rxH8WUGGsS1LPP-11" edge="1" parent="1" source="wt9QgB-zg808mkwM41qk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="8ecLn0pVdCgLaiauur-i-9">
           <mxGeometry relative="1" x="0.0062" as="geometry">
@@ -351,7 +351,7 @@
         <mxCell id="ph564JT-RsOlEsHo1rvt-6" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Menampilkan pesan&amp;nbsp;&lt;div&gt;Belum ada riwayat&amp;nbsp;&lt;/div&gt;&lt;div&gt;layanan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="410" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="ph564JT-RsOlEsHo1rvt-10" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Menampilkan pesan&amp;nbsp;&lt;div&gt;Pasien telah selesai di&amp;nbsp;&lt;/div&gt;&lt;div&gt;layani&lt;/div&gt;" vertex="1">
+        <mxCell id="ph564JT-RsOlEsHo1rvt-10" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Menampilkan pesan&amp;nbsp;&lt;div&gt;Pasien telah selesai&amp;nbsp;&lt;/div&gt;&lt;div&gt;di&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;layani&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="670" y="525" as="geometry" />
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;resizable=1;" value="Lanjut menggunakan aplikasi?" vertex="1">
