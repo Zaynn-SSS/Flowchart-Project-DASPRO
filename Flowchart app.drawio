@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="sERSOV_R9ZdZbw53TELt">
-    <mxGraphModel dx="4385" dy="3163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1658" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
             <mxPoint y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wt9QgB-zg808mkwM41qk-3" edge="1" parent="1" source="ph564JT-RsOlEsHo1rvt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PJtOrvI26MYz5TeBvZYG-30">
+        <mxCell id="wt9QgB-zg808mkwM41qk-3" edge="1" parent="1" source="XbXApNY49Ls-Te1t1dud-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PJtOrvI26MYz5TeBvZYG-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-520" as="sourcePoint" />
           </mxGeometry>
@@ -357,16 +357,17 @@
         <mxCell id="ph564JT-RsOlEsHo1rvt-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;resizable=1;" value="Lanjut menggunakan aplikasi?" vertex="1">
           <mxGeometry height="100" width="100" x="459" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="ph564JT-RsOlEsHo1rvt-17" edge="1" parent="1" source="ph564JT-RsOlEsHo1rvt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;" target="ph564JT-RsOlEsHo1rvt-19">
-          <mxGeometry relative="1" x="-0.0687" as="geometry">
+        <mxCell id="ph564JT-RsOlEsHo1rvt-17" edge="1" parent="1" source="ph564JT-RsOlEsHo1rvt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;" target="XbXApNY49Ls-Te1t1dud-10">
+          <mxGeometry relative="1" x="-0.0711" as="geometry">
             <Array as="points">
               <mxPoint x="1040" y="810" />
               <mxPoint x="1040" y="-545" />
             </Array>
+            <mxPoint x="65" y="-545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-23" connectable="0" parent="ph564JT-RsOlEsHo1rvt-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Ya" vertex="1">
-          <mxGeometry relative="1" x="-0.9533" y="1" as="geometry">
+          <mxGeometry relative="1" x="-0.9532" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -381,14 +382,13 @@
             <mxPoint x="-1" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ph564JT-RsOlEsHo1rvt-20" edge="1" parent="1" source="ph564JT-RsOlEsHo1rvt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ph564JT-RsOlEsHo1rvt-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ph564JT-RsOlEsHo1rvt-20" edge="1" parent="1" source="ph564JT-RsOlEsHo1rvt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-18" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Menampilkan Statistik:&amp;nbsp;&lt;div&gt;Total antrian &amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Statistik per poli&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="199" x="-99.5" y="-680" as="geometry" />
-        </mxCell>
-        <mxCell id="ph564JT-RsOlEsHo1rvt-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="User memilih Tab" vertex="1">
-          <mxGeometry height="50" width="130" x="-65" y="-570" as="geometry" />
         </mxCell>
         <mxCell id="XbXApNY49Ls-Te1t1dud-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Pilih pasien yang&amp;nbsp;&lt;div&gt;akan di batalkan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="-37" y="160" as="geometry" />
@@ -401,6 +401,9 @@
         </mxCell>
         <mxCell id="XbXApNY49Ls-Te1t1dud-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Tampilkan Bagian&amp;nbsp;&lt;div&gt;tandai pasien&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;selesai&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="680" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XbXApNY49Ls-Te1t1dud-10" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="User memilih Tab" vertex="1">
+          <mxGeometry height="50" width="150" x="-75" y="-570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
