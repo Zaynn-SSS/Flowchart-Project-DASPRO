@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="sERSOV_R9ZdZbw53TELt">
-    <mxGraphModel dx="1795" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2228" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,7 +371,7 @@
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-23" connectable="0" parent="ph564JT-RsOlEsHo1rvt-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Ya" vertex="1">
           <mxGeometry relative="1" x="-0.9532" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-15" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ph564JT-RsOlEsHo1rvt-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="END" vertex="1">
